@@ -6,10 +6,10 @@ This directory is meant to serve as the temporary home for resources and informa
 
 ___
 
-- [Limitations](./docs/Limitations.md)
-    - [Fingerprinting](./docs/Limitations.md#fingerprinting)
-    - [Security](./docs/Limitations.md#security)
-- [Frequently Asked Questions](./docs/FAQ.md)
-- [Features](./docs/Features.md)
-- [Safe Browsing](./docs/Safe-Browsing.md)
-- [Network Connections](./docs/Network-Connections.md)
+- [Limitations](/docs/Limitations.md)
+    - [Fingerprinting](/docs/Limitations.md#fingerprinting)
+    - [Security](/docs/Limitations.md#security)
+- [Frequently Asked Questions](/docs/FAQ.md)
+- [Features](/docs/Features.md)
+- [Safe Browsing](/docs/Safe-Browsing.md)
+- [Network Connections](/docs/Network-Connections.md)
